@@ -1,0 +1,25 @@
+/**
+ * Fonts
+ */
+@import url("https://fonts.googleapis.com/css?family=Raleway:300,400,600");
+
+@import "components/variables";
+
+/**
+ * Bootstrap
+ */
+@import "~bootstrap/scss/bootstrap";
+
+/**
+ * Components
+ */
+@import "components/button";
+
+/**
+ * Pages
+ */
+@import "pages/index";
+
+.box-padding {
+  padding : 30px 30px 15px 30px
+}
