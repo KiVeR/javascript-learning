@@ -50,6 +50,6 @@ For more advanced productions environments :
 
 # More 
 For detailed explanation on how things work, checkout : 
-- [Laravel 5.4](laravel.com/docs/5.4)
+-[Laravel 5.4](laravel.com/docs/5.4)
 - [Vue 2](https://vuejs.org/v2/guide/)
 - [Boostrap 4](https://v4-alpha.getbootstrap.com/)
