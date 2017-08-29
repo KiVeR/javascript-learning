@@ -60,4 +60,3 @@ For detailed explanation on how things work, checkout :
 [Vue 2](https://vuejs.org/v2/guide/)
 
 [Boostrap 4](https://v4-alpha.getbootstrap.com/)
->>>>>>> Stashed changes
