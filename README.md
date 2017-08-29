@@ -7,6 +7,7 @@ A Laravel 5.4 + Vue.js 2 + Bootstrap 4 project
 ### Installation
 
 ``` bash
+cd javascript-learning/
 cp .env.example .env
 npm install
 composer install
