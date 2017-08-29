@@ -78,11 +78,6 @@
 </template>
 
 <script>
-    const availableStep = {
-        initialStep: 0,
-        showTable: 1,
-    };
-
     export default {
         data() {
             return {
