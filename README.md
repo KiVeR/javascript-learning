@@ -41,15 +41,23 @@ For micro environnement :
 php artisan serve
 ```
 
+
 For more advanced developments environments : 
-- [Laragon for windows](https://laragon.org/)
-- [Valet for mac](https://laravel.com/docs/5.4/valet)
+
+[Laragon for windows](https://laragon.org/)
+
+[Valet for mac](https://laravel.com/docs/5.4/valet)
 
 For more advanced productions environments : 
-- [Nginx](https://www.nginx.com/resources/wiki/)
+
+[Nginx](https://www.nginx.com/resources/wiki/)
 
 # More 
 For detailed explanation on how things work, checkout : 
--[Laravel 5.4](laravel.com/docs/5.4)
-- [Vue 2](https://vuejs.org/v2/guide/)
-- [Boostrap 4](https://v4-alpha.getbootstrap.com/)
+
+[Laravel 5.4](laravel.com/docs/5.4)
+
+[Vue 2](https://vuejs.org/v2/guide/)
+
+[Boostrap 4](https://v4-alpha.getbootstrap.com/)
+>>>>>>> Stashed changes
