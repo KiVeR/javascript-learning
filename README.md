@@ -53,6 +53,15 @@ For more advanced productions environments :
 
 [Nginx](https://www.nginx.com/resources/wiki/)
 
+
+### Sass (css) directory
+
+check : resources/assets/sass
+
+### Javascript directory
+
+check : resources/assets/js
+
 # More 
 For detailed explanation on how things work, checkout : 
 
